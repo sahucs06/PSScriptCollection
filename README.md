@@ -27,14 +27,6 @@ To use these scripts, ensure you have:
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit pull requests.
 
-## 🏅 Connect With Me
-
-🔗 **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubUsername)  
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourProfile)  
-
 If you find these scripts useful, don't forget to ⭐ star this repository! 😊
 
 ---
-
-Would you like any modifications, such as adding a license or specific PowerShell modules?
